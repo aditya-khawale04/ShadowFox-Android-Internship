@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shadowfox_Login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="default_web_client_id">AIzaSyApoCDDbCL94TPd_Dsh4w5dQZcalGgUkR8</string>
+</resources>
