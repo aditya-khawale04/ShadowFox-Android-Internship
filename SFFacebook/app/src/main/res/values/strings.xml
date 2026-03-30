@@ -3,7 +3,7 @@
     
     <!-- Facebook Configuration -->
     <!-- Replace with your Facebook App ID -->
-    <string name="facebook_app_id">2073235829923474</string>
+    <string name="facebook_app_id">XXXXXXXXXXXXXXXXXX</string>
     <!-- Replace with your Facebook Client Token -->
-    <string name="facebook_client_token">5d266232d0f0f1fc20c0364d3088a402</string>
+    <string name="facebook_client_token">XXXXXXXXXXXXXXXXXXXXX</string>
 </resources>
